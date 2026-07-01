@@ -1,0 +1,56 @@
+Customer Segmentation Report
+
+Algorithm:
+K-Means Clustering
+
+Optimal Clusters:
+5
+
+Features Used:
+Age
+Annual Income
+Spending Score
+
+Insights
+
+Cluster 0
+Young High Spenders
+
+Action:
+Promote luxury products and reward loyalty.
+
+--------------------------
+
+Cluster 1
+
+High Income Low Spending
+
+Action:
+Increase engagement through personalized offers.
+
+--------------------------
+
+Cluster 2
+
+Average Customers
+
+Action:
+Provide seasonal discounts.
+
+--------------------------
+
+Cluster 3
+
+Premium Customers
+
+Action:
+VIP Membership and Exclusive Deals.
+
+--------------------------
+
+Cluster 4
+
+Budget Customers
+
+Action:
+Affordable product recommendations.
