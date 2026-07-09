@@ -1,0 +1,8 @@
+*.pkl
+cleaned_movies.csv
+processed_movies.csv
+__pycache__/
+*.pyc
+
+data/tmdb_5000_movies.csv
+data/tmdb_5000_credits.csv
