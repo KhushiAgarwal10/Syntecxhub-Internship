@@ -149,6 +149,149 @@ During this internship, I gained practical experience in:
 
 ---
 
+## 🛍️ Project 3: Customer Segmentation using K-Means Clustering
+
+### Objective
+
+Develop an unsupervised Machine Learning model to segment mall customers into different groups based on their purchasing behavior, age, annual income, and spending score. The goal is to help businesses understand customer patterns and create targeted marketing strategies.
+
+### Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
+
+### Features
+
+* Data Cleaning and Preprocessing
+* Feature Selection
+* Data Scaling using StandardScaler
+* Elbow Method for Optimal Clusters
+* K-Means Clustering
+* Customer Cluster Visualization
+* Customer Segment Analysis
+* Marketing Strategy Recommendations
+
+### Machine Learning Workflow
+
+1. Load Mall Customers Dataset
+2. Perform Data Cleaning
+3. Scale Numerical Features
+4. Determine Optimal Number of Clusters using the Elbow Method
+5. Train the K-Means Clustering Model
+6. Assign Cluster Labels
+7. Visualize Customer Segments
+8. Analyze Customer Groups
+9. Export Clustered Dataset
+
+### Visualizations
+
+* Elbow Method Graph
+* Customer Cluster Scatter Plot
+* Cluster Analysis
+
+### Outcome
+
+Successfully segmented customers into meaningful groups based on purchasing behavior. The project demonstrates how unsupervised learning can help businesses improve customer targeting and marketing decisions.
+
+---
+
+## 🎬 Project 4: Movie Recommendation System
+
+### Objective
+
+Develop a Content-Based Movie Recommendation System that recommends similar movies based on movie metadata such as genres, cast, crew, keywords, and movie overviews.
+
+### Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+* NLTK
+* Streamlit
+* Pickle
+
+### Features
+
+* Data Cleaning and Preprocessing
+* Metadata Feature Engineering
+* NLP Text Processing
+* TF-IDF Vectorization
+* Cosine Similarity-Based Recommendation Engine
+* Interactive Streamlit Web Application
+* Modular Python Project Structure
+
+### Machine Learning Workflow
+
+1. Load TMDB Movie Dataset
+2. Merge Movie and Credits Data
+3. Clean and Preprocess Metadata
+4. Create Text Features
+5. Apply NLP Stemming using NLTK
+6. Generate TF-IDF Feature Vectors
+7. Calculate Cosine Similarity
+8. Recommend Top 5 Similar Movies
+9. Build Interactive Streamlit Application
+
+### Machine Learning Techniques
+
+* Natural Language Processing (NLP)
+* TF-IDF Vectorization
+* Cosine Similarity
+* Content-Based Recommendation System
+
+### Features of the Web Application
+
+* Select a Movie
+* Generate Top 5 Similar Movie Recommendations
+* Interactive and User-Friendly Interface
+* Fast Recommendation Engine
+
+### Outcome
+
+Successfully developed a Content-Based Movie Recommendation System capable of recommending similar movies using NLP and Machine Learning techniques. The project strengthened practical knowledge of recommendation systems, feature engineering, and Streamlit application development.
+
+---
+
+# 🛠 Skills Gained
+
+During this internship, I gained practical experience in:
+
+* Data Cleaning and Preprocessing
+* Exploratory Data Analysis (EDA)
+* Feature Engineering
+* Supervised Machine Learning
+* Unsupervised Machine Learning
+* Recommendation Systems
+* Natural Language Processing (NLP)
+* Data Visualization
+* Model Evaluation and Validation
+* Streamlit Web Application Development
+* Python Programming
+* Git and GitHub Version Control
+
+---
+
+# 📈 Machine Learning Libraries Used
+
+* Pandas
+* NumPy
+* Scikit-learn
+* NLTK
+* Matplotlib
+* Seaborn
+* Plotly
+* Streamlit
+* Joblib
+* Pickle
+
+---
+
 # 🚀 How to Run the Projects
 
 ### Clone the Repository
