@@ -334,7 +334,7 @@ I would like to thank **Syntecxhub** for providing this opportunity to gain prac
 
 ## 📬 Connect With Me
 
-* LinkedIn: [www.linkedin.com/in/khushi-agarwal-7b8526294](http://www.linkedin.com/in/khushi-agarwal-7b8526294)
+* LinkedIn: [www.linkedin.com/in/khushi-agarwal-2a5a162bb](https://www.linkedin.com/in/khushi-agarwal-2a5a162bb/)
 * GitHub: https://github.com/KhushiAgarwal10
 
 ⭐ If you found this repository helpful, feel free to star it!
